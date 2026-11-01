@@ -155,7 +155,7 @@
     "vue": "^3.5.38"
   },
   "optionalDependencies": {
-    "@devicefarmer/adbkit": "^3.3.8",
+    "@devicefarmer/adbkit": "^4.0.0",
     "better-sqlite3": "12.11.1",
     "binaryen": "^130.0.0",
     "camoufox-js": "^0.11.1",
