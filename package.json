@@ -128,7 +128,7 @@
     "mockttp": "4.4.2",
     "protobufjs": "8.7.1",
     "quickjs-emscripten": "^0.32.0",
-    "rebrowser-puppeteer-core": "^24.8.1",
+    "rebrowser-puppeteer-core": "^25.14.101",
     "yauzl": "^3.4.0",
     "zod": "^4.4.3"
   },
